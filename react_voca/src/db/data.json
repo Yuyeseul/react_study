@@ -1,0 +1,92 @@
+{
+  "days": [
+    {
+      "id": "1",
+      "day": 1
+    },
+    {
+      "id": "2",
+      "day": 2
+    },
+    {
+      "id": "3",
+      "day": 3
+    },
+    {
+      "id": "3835",
+      "day": 4
+    }
+  ],
+  "words": [
+    {
+      "id": "1",
+      "day": 1,
+      "eng": "book",
+      "kor": "책",
+      "isDone": true
+    },
+    {
+      "id": "4",
+      "day": 2,
+      "eng": "banana",
+      "kor": "바나나",
+      "isDone": true
+    },
+    {
+      "id": "6",
+      "day": 3,
+      "eng": "house",
+      "kor": "집",
+      "isDone": false
+    },
+    {
+      "id": "cad3",
+      "day": "1",
+      "eng": "mirror",
+      "kor": "거울",
+      "isDone": false
+    },
+    {
+      "id": "51ea",
+      "day": "3",
+      "eng": "cat",
+      "kor": "고양이",
+      "isDone": false
+    },
+    {
+      "id": "3d77",
+      "day": "2",
+      "eng": "mouse",
+      "kor": "쥐",
+      "isDone": false
+    },
+    {
+      "id": "d212",
+      "day": "3",
+      "eng": "word",
+      "kor": "단어",
+      "isDone": false
+    },
+    {
+      "id": "435b",
+      "day": "1",
+      "eng": "cookie",
+      "kor": "쿠키",
+      "isDone": false
+    },
+    {
+      "id": "9491",
+      "day": "4",
+      "eng": "year",
+      "kor": "년",
+      "isDone": false
+    },
+    {
+      "id": "fa98",
+      "day": "3",
+      "eng": "gold",
+      "kor": "금",
+      "isDone": false
+    }
+  ]
+}
