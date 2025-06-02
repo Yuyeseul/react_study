@@ -8,7 +8,7 @@ const reservedNotifications = [
   },
   {
     id: 2,
-    message: '점식 식사 시간입니다다.',
+    message: '점식 식사 시간입니다.',
   },
   {
     id: 3,
